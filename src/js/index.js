@@ -1,5 +1,6 @@
 import _ from 'lodash';
-import '../style/style.css';
+import '../style/style.scss';
+import 'bootstrap';
 
 function component() {
   var element = document.createElement('div');
